@@ -1,0 +1,35 @@
+.divCard {
+  width: 40rem;
+  margin: auto;
+  margin-top: 5rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(3px);
+  border-radius: 2rem;
+  color: #563581;
+  font-family: "Josefin Slab", serif;
+  font-size: 1.5rem;
+}
+
+.vertical {
+  display: flex;
+  align-items: center;
+}
+
+.centerClass {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 6rem;
+  font-size: 130%;
+  /* padding: 1.25rem 0; */
+}
+
+/* .errorMessage {
+  color: red;
+  font-size: 0.7rem;
+  padding-left: 15%;
+} */
+
+.buttonRes {
+  max-width: 100%;
+}

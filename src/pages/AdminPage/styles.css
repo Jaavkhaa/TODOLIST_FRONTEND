@@ -1,0 +1,61 @@
+.bigCart {
+  margin-bottom: 5rem;
+}
+
+.blurredCard {
+  width: 45%;
+  height: 6rem;
+  margin: auto;
+  margin-top: 5rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(30px);
+  border-radius: 2rem;
+  color: #084298;
+  font-family: "Josefin Slab", serif;
+  font-size: 1.5rem;
+}
+
+.vertical {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.centerElement {
+  display: grid;
+  justify-content: center;
+}
+
+.sameCard {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.todocart {
+  width: 45rem;
+  margin-bottom: 5px;
+  margin-top: 5rem;
+  background-color: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(2px);
+  border-radius: 2rem;
+  color: rgb(81, 66, 58);
+  font-family: "Josefin Slab", serif;
+  font-size: 1.5rem;
+}
+
+.spaceBottom {
+  margin-bottom: 5rem;
+}
+
+.defrhyngfrdes {
+  margin-bottom: 20rem;
+}
+
+.adminClass {
+  margin-bottom: 5rem;
+}
+
+.vrfg {
+  background-color: black;
+}
